@@ -186,6 +186,7 @@ And don't forget to **bookmark AWS Security bulletin** for new vulnerabilities n
 23. [cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Open-source AWS security scanner that detects attack chains and generates remediation code. 80+ checks, CIS/SOC 2 compliance.
 24. [boto3-refresh-session](https://github.com/michaelthomasletts/boto3-refresh-session) - A simple Python package for refreshing AWS temporary credentials in boto3 automatically. Supports MFA, IoT, and custom auth flows.
 25. [Cynative](https://github.com/cynative/cynative) - Open-source framework for security agents with live, read-only access to your infrastructure (connects to AWS, GCP, Azure, self-managed Kubernetes, GitHub and GitLab).
+26. [aws-waste-finder](https://git.canutethegreat.com/CanuteTheGreat/aws-waste-finder) - Free open-source Python CLI that scans an AWS account for unattached EBS volumes, idle EIPs, stopped-but-still-billed instances, and other common cost/misconfiguration waste; read-only IAM permissions, no agent to install.
 
 ## Security Practices and CTFs
 1. [AWS Well Architected Security Labs](https://wellarchitectedlabs.com/security/)
